@@ -1,16 +1,15 @@
-# atividade02
+# Atividade Programação Mobile
+Instituição IFMT-UAB Cuiabá  
+Curso Tecnologia em Sistemas para Internet  
+Aluno Felipe Roberto  
 
-A new Flutter project.
+## Apresentação
 
-## Getting Started
+<p><strong>🎬 Clique na imagem para assistir à apresentação:</strong></p>
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+<a href="https://www.youtube.com/watch?v=mme8odnpYy8" target="_blank">
+  <img 
+    src="https://img.youtube.com/vi/mme8odnpYy8/hqdefault.jpg" 
+    alt="Apresentação"
+    style="border:1px solid #ccc; border-radius:8px; width:100%; max-width:600px;">
+</a>
